@@ -1,0 +1,30 @@
+{
+  "name": "udemy_bootcamp_react",
+  "version": "1.0.0",
+  "description": "this is udemy bootcamp  course react js",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshjangid/udemy_bootcamp_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshjangid/udemy_bootcamp_react/issues"
+  },
+  "homepage": "https://github.com/ganeshjangid/udemy_bootcamp_react#readme"
+}
